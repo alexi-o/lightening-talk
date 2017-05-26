@@ -16,13 +16,13 @@ Supports two-way data binding between the View and the ViewModel.
 *	Testing framework built in
 *	‘ember g ____’ generates controllers, routes and models with the boilerplates associated with each
 # Ember libraries:
-•	No config needed
-•	‘ember install ember-bootstrap’
+*	No config needed
+*	‘ember install ember-bootstrap’
 # Companies Using Ember
-•	Used by LinkedIn
-•	Heroku uses it for their app dashboard
-•	Apple uses it for Apple Music.
-  o	Ember is being used for the Apple Music app when you go to iTunes on desktop
+*	Used by LinkedIn
+*	Heroku uses it for their app dashboard
+*	Apple uses it for Apple Music.
+* Ember is being used for the Apple Music app when you go to iTunes on desktop
 
 Testing has intimate knowledge of the framework
-•	The testing framework knows about the run loop and the render loop and produces that boilerplate in your test.
+* The testing framework knows about the run loop and the render loop and produces that boilerplate in your test.
