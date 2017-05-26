@@ -1,8 +1,6 @@
-# lightening-talk
+# Ember JS
 
-Notes:
-
-# Overview of Ember.js
+# Overview
 Ember is an open-source JavaScript framework that allows developers to create single-page web applications. Speaking from my personal experience so far, the best feature about Ember is it’s ‘out-of-the-box’ design which allows you to easily launch and create an app pretty much immediately. It has a pluggable architecture with over 3500 addons that can be easily incorporated to enhance functionality.
 
 # Uses MVVM, Model View ViewModel
@@ -26,3 +24,8 @@ Supports two-way data binding between the View and the ViewModel.
 
 Testing has intimate knowledge of the framework
 * The testing framework knows about the run loop and the render loop and produces that boilerplate in your test.
+
+Resources
+* [Ember's Main Website](https://emberjs.com/)
+* [Quick Start Guide](https://guides.emberjs.com/v2.13.0/getting-started/quick-start/)
+* [Great YouTube tutorial for building a simple web app with Ember.js](https://www.youtube.com/watch?v=owDmPTSJkrg&t=400s)
