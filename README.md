@@ -10,11 +10,11 @@ The View Model is responsible for displaying methods, commands, and other functi
 Supports two-way data binding between the View and the ViewModel.
 
 # Ember CLI:
-•	‘ember new’ sets up everything you need to run an Ember application
-•	Comes with a full routing story
-•	Template compilation
-•	Testing framework built in
-•	‘ember g ____’ generates controllers, routes and models with the boilerplates associated with each
+*	‘ember new’ sets up everything you need to run an Ember application
+*	Comes with a full routing story
+*	Template compilation
+*	Testing framework built in
+*	‘ember g ____’ generates controllers, routes and models with the boilerplates associated with each
 # Ember libraries:
 •	No config needed
 •	‘ember install ember-bootstrap’
