@@ -22,10 +22,10 @@ Supports two-way data binding between the View and the ViewModel.
 *	Apple uses it for Apple Music.
 * Ember is being used for the Apple Music app when you go to iTunes on desktop
 
-Testing has intimate knowledge of the framework
+# Testing has intimate knowledge of the framework
 * The testing framework knows about the run loop and the render loop and produces that boilerplate in your test.
 
-Resources
+# Resources
 * [Ember's Main Website](https://emberjs.com/)
 * [Quick Start Guide](https://guides.emberjs.com/v2.13.0/getting-started/quick-start/)
 * [Great YouTube tutorial for building a simple web app with Ember.js](https://www.youtube.com/watch?v=owDmPTSJkrg&t=400s)
